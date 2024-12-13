@@ -1,0 +1,34 @@
+{
+  "project_info": {
+    "project_number": "478398082755",
+    "project_id": "dothan-pediatric",
+    "storage_bucket": "dothan-pediatric.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478398082755:android:bdd8c4eb1273aab4a93c76",
+        "android_client_info": {
+          "package_name": "com.donotreply.DothanPediatricNetwork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMRzoeYnBJ8Yeb9BTj9bwocbUmpDc2uCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360164625961-e28obhbvb1muco2gq74j3lcu9q3j7mdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

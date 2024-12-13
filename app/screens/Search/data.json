@@ -1,0 +1,90 @@
+[
+    {
+        "title": "About Us",
+        "keywords": ["about us", "doctor", "doctors", "names", "doctor names", "doctor name", "dothan pediatric clinic", "dothan pediatric subspecialty clinic", "enterprise", "eufaula", "ozark", "mission", "alabama", "about", "locations", "location", "address", "hours", "info", "providers", "where", "what", "who"],
+        "description": "About us. Our mission. Our locations. Our providers.",
+        "iconImport": "Icon2",
+        "iconName": "heartbeat",
+        "screenName": "SearchAboutUs"
+    },
+    {
+        "title": "Services",
+        "keywords": ["services", "test", "tested", "testing", "what do you offer", "offer", "newborn", "pediatric", "adolescent", "hospital care", "xray", "x-ray", "x ray", "sleep", "lab test", "lab tests", "lab testing", "help sleep", "help sleeping", "service"],
+        "description": "Learn all about the services we offer. Services include newborn care, pediatric care, adolescent, hospital care, xray, sleep, and laboratory testing.",
+        "iconImport": "Icon",
+        "iconName": "stethoscope",
+        "screenName": "SearchServices"
+    },
+    {
+        "title": "Patient Portal",
+        "keywords": ["pay bill", "patient portal", "portal", "patient", "bill", "find bill", "pay", "cost"],
+        "description": "Pay your bill. Find answers to frequently asked questions about our patient portal.",
+        "iconImport": "Icon2",
+        "iconName": "laptop-medical",
+        "screenName": "SearchPatientPortal"
+    },
+    {
+        "title": "Appointments",
+        "keywords": ["appointments", "appointment", "make an appointment", "make appointment", "apointment", "make apointment", "before appointment", "before", "visit", "before the visit", "before visit", "schedule", "scedule", "pick", "time"],
+        "description": "Learn everything you need to know about making an appointment with one of our many locations.",
+        "iconImport": "Icon2",
+        "iconName": "calendar-alt",
+        "screenName": "SearchAppointments"
+    },
+    {
+        "title": "Financial",
+        "keywords": ["pay" , "money" , "payment" , "insurance" , "health insurance" , "fee" , "fees" , "self-pay" , "financial counselor" , "counselor" , "counsel" , "medicaid" , "medi" , "medicare" , "tricare" , "aitna" , "ppo" , "aetn ppo" , "all kids" , "beech street" , "health choice" , "beach street" , "beech street" , "blue cross blue shield" , "cross" , "shield" , "champva" , "choice care" , "humana" , "cigna" , "healthcare" , "great west" , "geha" , "mma" , "nova net" , "private healthcare systems" , "multiplan network" , "network" , "united" , "healthcare"],
+        "description": "Learn about issues related to finances. Self-Pay. Insurance. Financial counseling. We are committed to providing quality and cost-effective healthcare.",
+        "iconImport": "Icon2",
+        "iconName": "money-check-alt",
+        "screenName": "SearchFinancial"
+    },
+    {
+        "title": "Symptom Advisor",
+        "keywords": ["symptom advisor", "back pain", "symptoms", "cough", "runny nose", "sneeze", "sneezing", "what do i have", "sick", "fever", "feaver", "fevor", "advice", "healthy", "children", "pediatrics", "sore throat", "throat", "headache", "head ache", "ache", "pain", "brain", "teeth", "mouth", "ears", "ear", "eye", "eyes", "nose", "tooth", "chest", "abdomen", "ab", "stomach", "arm", "arms", "genital area", "urinary", "legs", "leg", "skin", "penis", "breast", "tract", "infection", "neck", "back", "bug bite", "burn", "bruises", "cut", "boil", "Abdominal Pain", "female", "male", "Acne", "animal", "injury", "arm", "armpit", "arm pit", "pain", "asthma", "attack", "breath", "breathe", "athlete's foot", "spider bite", "scrotum", "pinworms", "scrotum", "poisen ivy", "ivy", "poisin", "puncture", "whole", "rash", "red", "bed", "bug", "bee", "whasp", "breasts", "blister", "back", "chest", "chickenpox", "circumcision", "cold", "constipation", "coronavirus", "cough", "croup", "crying", "cut", "scrape", "bruis", "diaper", "rash", "diarrhea", "dizziness", "drink", "drinking", "fluids", "direa", "dizzy", "dizziness", "dry", "pierce", "ache", "earwax", "ebola", "eczema", "eye", "swelling", "swell", "fainting", "faint", "fever", "fifth disease", "finger", "injury", "finger injury", "fire ant", "ant", "sting", "flu", "fluid", "intake", "food allergy", "food", "allergy", "foreskin", "frostbite", "genital", "hair", "hari loss", "hand foot and mouth disease", "hay", "head", "head", "lice", "headache", "heat", "reaction", "rash", "hives", "human", "immunization", "immunity", "immune", "impetigo", "sores", "infection", "infected", "insext", "influenza", "flu", "leg", "pain", "lice", "lymph", "nodes", "lymph nodes", "limph", "limf", "medicine", "menstral", "cramps", "cramp", "period", "missed", "late", "mental", "mind", "head", "health", "problem", "problems", "molluscum", "mollusc", "mosquito", "moscito", "travel", "motion", "sick", "sickness", "mouth", "ulcer", "ulcers", "neck", "stiff", "stiffness", "newborn", "illness", "birth", "bithmark", "birthmarks", "reflex", "behavior", "nose", "allergy", "hay fever", "nosebleed", "blood", "bleed", "bleeding", "pinworm", "pinworms", "poison", "poison ivy", "oak", "sumac", "puncture", "wound", "redness", "red", "local", "localized", "wide", "widespread", "ringworm", "roseola", "rsv", "bronchiolitis", "bronchidis", "scabies", "scorpion", "sting", "scrape", "sinus", "congestion", "skin", "lump", "silver", "splinter", "solid", "baby", "sore", "throat", "sore throat", "spider", "bite", "sty", "sunburn", "solid", "spit", "spitting", "reflux", "stomach", "stool", "stools", "blood in poop", "poop", "suture", "swallowed", "foreign", "swallow", "swallowed", "swimmer", "swimmers itch", "swimmer's itch", "lake", "ocean", "tear", "duct", "block", "blocked", "teeth", "tooth", "teething", "thrush", "tick", "toe", "toenail", "ingrown", "toothache", "trouble", "breath", "breathe", "breathing", "trouble breathing", "umbilical cord", "symptom", "symptoms", "urinary tract", "urinary", "tract infection", "urine", "vaginal", "vagina", "vomit", "vomitting", "diarrhea", "wart", "warts", "weak", "tired", "fatigue", "wheeze", "wheezing", "out of breath", "out of breathe", "wound"],
+        "description": "Search through our directory of symptoms to help discover what your child may be facing.",
+        "iconImport": "Icon3",
+        "iconName": "search",
+        "screenName": "SearchSymptomAdvisor"
+    },
+    {
+        "title": "Forms",
+        "keywords": ["form", "forms", "sign up", "completed", "sign", "patient portal", "patient", "fmla", "school medication form", "medication form", "school medication forms", "medication forms", "excuse", "excuses", "visit", "past", "visits", "letters", "letter", "misc", "misc forms", "miscellaneous form", "miscellaneous forms", "patient profile", "social", "sociel", "social security", "sociel security", "liheap", "power assistance", "medical", "release", "view", "medical release", "alabama", "high school", "athletic", "association", "sports", "sport", "physical", "florida", "fort", "rucker", "georgia"],
+        "description": "Learn all about forms. FMLA, School Medication Forms. School Excuses for Past Visits, Letters, Miscellaneous Forms, Patient Profile for Social Secuity, LIHEAP - Power Assistance.",
+        "iconImport": "Icon",
+        "iconName": "credit-card",
+        "screenName": "SearchForms"
+    },
+    {
+        "title": "Check-ups & Immunizations",
+        "keywords": ["check", "checkup", "checkups", "check-up", "check-ups", "check ups", "immune", "immunization", "immunizations", "check-ups and immunizations", "check-ups & immunizations", "checkup & immunization", "checkup and immunization", "checkup and immunizations", "2 days", "2 day", "2 weeks", "2 week", "2 months", "2 month", "4 month", "4 months", "6 month", "6 months", "9 month", "9 months", "12 month", "12 months", "15 month", "15 months", "18 month", "18 months", "2 year", "2 years", "3 year", "3 years", "4 year", "4 years", "5 year", "5 years", "6 year", "6 years", " 2-days", "2-day", "2-weeks", "2-week", "2-months", "2-month", "4-month", "4-months", "6-month", "6-months", "9-month", "9-months", "12-month", "12-months", "15-month", "15-months", "18-month", "18-months", "2-year", "2-years", "3-year", "3-years", "4-year", "4-years", "5-year", "5-years", "6-year", "6-years"],
+        "description": "Checkup information. Search through our resources to assist you with frequently asked questions and concerns for all ages of your child's life.",
+        "iconImport": "Icon2",
+        "iconName": "syringe",
+        "screenName": "SearchCheckupsImmunizations"
+    },
+    {
+        "title": "Dosage Charts",
+        "keywords": ["dosage", "dosage chart", "dosage charts", "tablet", "tablets", "ml", "milliliter", "tsp", "teaspoon", "teaspoons", "milliliters", "oral", "suspension", "acetaminophen", "metaway", "chewable", "mg", "lbs", "lb", "pound", "pounds", "medicine", "medi", "jr", "junior", "medication", "medisine"],
+        "description": "Instructions on how much medicine to give your child.",
+        "iconImport": "Icon4",
+        "iconName": "filetext1",
+        "screenName": "SearchDosageCharts"
+    },
+    {
+        "title": "News",
+        "keywords": ["news", "new", "dpc", "dothan pediatric clinic", "pedspages", "pedspage", "pedspages issue 118", "pedspages issue 119", "issue 118", "118", "issue 119", "119", "post", "facebook", "facebook page", "american", "american academy", "american acadamy", "aap", "emeracadpeds", "twitter", "social media", "sociel media", "social", "sociel"],
+        "description": "Catch up on the latest pediatric news.",
+        "iconImport": "Icon",
+        "iconName": "newspaper-o",
+        "screenName": "SearchNews"
+    },
+    {
+        "title": "Contact",
+        "keywords": ["contact", "phone", "number", "address", "contact info", "info", "information", "contact information", "email", "location", "dothan pediatric clinic", "dpc", "dothan pediatric subspecialty clinic", "subspecialty", "enterprise", "eufaula", "ozark"],
+        "description": "Contact us! Find directions and phone numbers to all of our locations.",
+        "iconImport": "Icon2",
+        "iconName": "user-circle",
+        "screenName": "SearchContactUs"
+    }
+]

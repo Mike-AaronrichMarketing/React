@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "DothanPediatricNetwork",
+    "slug": "DothanPediatricNetwork",
+    "version": "1.1.25",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/e0521e87-5601-4e05-8719-782b4b9cf825"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e0521e87-5601-4e05-8719-782b4b9cf825"
+      }
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dothanPed.app",
+      "buildNumber": "1.1.25"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "You may have to sign into the administrator's account to see this app on your phone. Contact the administrator if you need help.",
+    "android": {
+      "package": "com.donotreply.DothanPediatricNetwork",
+      "permissions": [],
+      "versionCode": 25,
+      "googleServicesFile": "./google-services.json"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
