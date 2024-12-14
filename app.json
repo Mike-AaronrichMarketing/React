@@ -17,6 +17,9 @@
     "extra": {
       "eas": {
         "projectId": "e0521e87-5601-4e05-8719-782b4b9cf825"
+      },
+      "expo-build-properties": {
+        "androidXEnabled": true
       }
     },
     "assetBundlePatterns": [
@@ -38,7 +41,8 @@
       "googleServicesFile": "./google-services.json"
     },
     "plugins": [
-      "expo-font"
+      "expo-font",
+      "expo-build-properties"
     ]
   }
 }
